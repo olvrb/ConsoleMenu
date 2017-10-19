@@ -1,0 +1,7 @@
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\bin\Debug\PrgGr6.exe.config
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\bin\Debug\PrgGr6.exe
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\bin\Debug\PrgGr6.pdb
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.csprojResolveAssemblyReference.cache
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.csproj.CoreCompileInputs.cache
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.exe
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.pdb
