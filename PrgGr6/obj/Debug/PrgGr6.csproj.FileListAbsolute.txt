@@ -5,3 +5,10 @@ c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\D
 c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.csproj.CoreCompileInputs.cache
 c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.exe
 c:\users\oliver.boudet\documents\visual studio 2017\Projects\PrgGr6\PrgGr6\obj\Debug\PrgGr6.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\bin\Debug\PrgGr6.exe.config
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\bin\Debug\PrgGr6.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\bin\Debug\PrgGr6.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\obj\Debug\PrgGr6.csprojResolveAssemblyReference.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\obj\Debug\PrgGr6.csproj.CoreCompileInputs.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\obj\Debug\PrgGr6.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\ConsoleMenu\PrgGr6\obj\Debug\PrgGr6.pdb
