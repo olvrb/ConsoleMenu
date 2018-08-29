@@ -1,70 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleMenu
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            string[] olikaVal = {"example", "text", "choices" };
-            int val = ConsoleMenu("example title", olikaVal);
-            Console.WriteLine("You chose alternative " + (val + 1) + ": " + olikaVal[val]);
-            Console.ReadLine();
-        }
-        
-        static int ConsoleMenu(string titel, string[] options)
-        {
-            bool hasSelectedValue = false;
-            int currentIndex = 0;
-
-            while (!hasSelectedValue)
-            {
-                Console.Clear();
-
-                Console.WriteLine(titel);
-
-                for (int i = 0; i < options.Length; i++)
-                {
-                    if (currentIndex == i)
-                    {
-                        Console.WriteLine(options[i] + " <-");
-                    }
-                    else
-                    {
-                        Console.WriteLine(options[i]);
-                    }
-
-                }
-
-                ConsoleKey key = Console.ReadKey(true).Key;
-
-                if (key == ConsoleKey.UpArrow)
-                {
-                    currentIndex--;
-                    if (currentIndex < 0)
-                    {
-                        currentIndex = 0;
-                    }
-                }
-                else if (key == ConsoleKey.DownArrow)
-                {
-                    currentIndex++;
-                    if (currentIndex >= options.Length)
-                    {
-                        currentIndex = options.Length - 1;
-                    }
-                }
-                else if (key == ConsoleKey.Enter)
-                {
-                    hasSelectedValue = true;
-                }
-                Console.BackgroundColor = ConsoleColor.Black;
-            }
-            return currentIndex;
+// ReSharper disable once CheckNamespace
+namespace PrgGr6 {
+    internal static class Program {
+        // ReSharper disable once UnusedParameter.Local
+        static void Main(string[] args) {
+            /*
+             * TESTS
+             */
+            string[]    choices = {"choice 1", "choice 2", "choice 3"};
+            ConsoleMenu menu    = new ConsoleMenu(choices);
+            int         val     = menu.FinalIndex;
+            Console.WriteLine("alternative " + (val + 1) + ": " + choices[val]);
+            Console.ReadKey();
         }
     }
 }
