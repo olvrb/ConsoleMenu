@@ -4,7 +4,7 @@
 namespace PrgGr6 {
     internal static class Program {
         // ReSharper disable once UnusedParameter.Local
-        static void Main(string[] args) {
+        private static void Main(string[] args) {
             /*
              * TESTS
              */
